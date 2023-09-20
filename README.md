@@ -11,7 +11,7 @@ Raindrops appear in different colors, including shades of blue, green, and red.
 Dynamic sizing, positioning, and duration for each raindrop, enhancing realism.
 Smooth and fluid animation ensures an immersive visual experience.
 
-##Live Demo: [Colourful Rain](https://cognisolver.github.io/colorful-rain/)
+## Live Demo: [Colourful Rain](https://cognisolver.github.io/colorful-rain/)
 
 # How to Use:
 Clone the repository to your local machine.
