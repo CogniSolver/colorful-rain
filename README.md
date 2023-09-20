@@ -11,8 +11,6 @@ Raindrops appear in different colors, including shades of blue, green, and red.
 Dynamic sizing, positioning, and duration for each raindrop, enhancing realism.
 Smooth and fluid animation ensures an immersive visual experience.
 
-## Live Demo: [Colourful Rain](https://cognisolver.github.io/colorful-rain/)
-
 # How to Use:
 Clone the repository to your local machine.
 Open the index.html file in your web browser.
@@ -22,7 +20,7 @@ index.html: The HTML file containing the structure of the animation.
 styles.css: The CSS file with styles and animations for the raindrops.
 script.js: The JavaScript file to generate dynamic raindrops on the screen.
 # Live Demo:
-You can experience the Colorful Rain animation live by visiting the following link: Live Demo
+You can experience the Colorful Rain animation live by visiting the following link: [Colourful Rain](https://cognisolver.github.io/colorful-rain/)
 
 # Inspiration:
 The project was inspired by a love for web animation and a desire to explore the creative possibilities of CSS animations and keyframes. It aims to showcase the art of web development and inspire others to create their own mesmerizing animations.
